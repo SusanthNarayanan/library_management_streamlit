@@ -126,7 +126,7 @@ def letter():
         orientation="horizontal"
         )
     if selected=="Home":
-        st.markdown('Library Management By Krishna Yadav')
+        st.markdown('Library Management By Susanth Narayanan')
     if selected=="Issue Book":
         issueBook()
     if selected == "Delete Books":
